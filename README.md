@@ -1,0 +1,2 @@
+# Dogrusal Regresyon ve Kuzenleri
+ 
